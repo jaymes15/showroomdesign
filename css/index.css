@@ -1,0 +1,119 @@
+.topnav{
+	 
+	 color:#000066;
+	 
+}
+
+.topnav div:nth-child(1){
+	font-size:40px;
+	
+	
+	padding-top:5px;
+	padding-bottom: 5px;
+	font-family: 'MuseoModerno', cursive;
+}
+.topnav div:nth-child(2){
+	font-family: 'MuseoModerno', cursive;
+	
+	
+	padding-top:15px;
+	padding-bottom: 5px;
+	
+	word-spacing:20px;
+	font-size:20px;
+	
+}
+
+.topnav div:nth-child(2) a:hover{
+	text-decoration:none;
+	
+}
+
+.intro{
+	margin-top:40px;
+}
+
+.intro h3{
+	color:#000066;
+	font-size:40px;
+	padding-left:10px;
+	font-family: 'Balsamiq Sans', cursive;
+	text-align:justify;
+	margin-bottom:30px;
+}
+.intro p{
+	
+	padding-left:10px;
+	font-family: 'Balsamiq Sans', cursive;
+	text-align:justify;
+	width:300px;
+}
+
+
+.intro img{
+	
+	height: 400px;
+	width:600px;
+}
+.button3 {
+	background-color: #f44336;
+	 border: none;
+    color: white;
+	  padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	  width:150px;
+}
+
+.cont{
+	margin-top:50px;
+	background-color:#ECEAEA;
+	height:200px;
+	
+}
+
+.icon{
+	display:flex;
+	font-size:40px;
+	padding-top:40px;
+	color:#000066;
+}
+
+.icon div:nth-child(1){
+	flex-grow:4;
+	border-bottom:solid;
+	border-bottom-width:4px;
+	border-bottom-color:black;
+}
+.icon div:nth-child(2){
+	flex-grow:4;
+	border-bottom:solid;
+	border-bottom-width:4px;
+	border-bottom-color:cyan;
+}
+.icon div:nth-child(3){
+	flex-grow:4;
+	border-bottom:solid;
+	border-bottom-width:4px;
+	border-bottom-color:red;
+}
+
+.side{
+	background-color:#000066;
+	height:180px;
+	position:relative;
+	top:-40px;
+	color:white;
+	padding-top:10px;
+	font-family: 'MuseoModerno', cursive;
+}
+.side img{
+	height:100px;
+	width:150px;
+	margin-top:30px;
+}
+
